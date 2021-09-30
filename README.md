@@ -2,7 +2,11 @@
 
 This small video project allows for you to create a YouTube stream using ffmpeg for audio.
 
-***First, let's combine your audio files!***
+**Make sure you have ffmpeg installed!**
+
+https://ffmpeg.org/download.html
+
+**First, let's combine your audio files!**
 
 Place your audio files in the Music/Source directory, run "combine.bat"
 
